@@ -1,5 +1,5 @@
-#문제 링크:https://school.programmers.co.kr/learn/courses/30/lessons/340213
-#정답률:33%, 문제특징:단순 요구사항 구현
+#문제링크:https://school.programmers.co.kr/learn/courses/30/lessons/340213
+#레벨1, 정답률 33%, 문제특징:단순 요구사항 구현
 
 # 1. pos가 오프닝 시작과 끝 사이이면 자동으로 오프닝 끝으로 리턴
 # 2. next:10초후, prev:10초전
