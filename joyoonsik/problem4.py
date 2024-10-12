@@ -1,3 +1,4 @@
+#문제링크:https://school.programmers.co.kr/learn/courses/30/lessons/67256
 #같은번호 분기처리.. if elif 문을 생각하고 써야겠다는것을 배움
 #인덱스로 처리
 def check(i,left_finger, right_finger, hand):
