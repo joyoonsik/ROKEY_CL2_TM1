@@ -1,3 +1,4 @@
+#문제링크 : https://school.programmers.co.kr/learn/courses/30/lessons/150370
 def solution(today, terms, privacies):
     answer = []
     # 22.1.5 -> 12개월 -> 23.1.5에파기
